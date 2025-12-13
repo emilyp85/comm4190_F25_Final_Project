@@ -24,4 +24,4 @@ This repository contains our group members' individual pitches for LLM project i
   
 ## Milestone 5
 * [Workflow Notebook](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/8ff7dfe5cedfe9427bbc215a821e3e5fdb2b0082/Workflow_Notebook.ipynb)
-* [Implementation of Workflow Folder] (https://github.com/emilyp85/comm4190_F25_Final_Project/tree/bb9fe8d95b9a936f5e95348ef1aa767aa1699c8d/Implementation_M%235)
+* [Implementation of Workflow Folder](https://github.com/emilyp85/comm4190_F25_Final_Project/tree/bb9fe8d95b9a936f5e95348ef1aa767aa1699c8d/Implementation_M%235)
