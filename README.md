@@ -1,4 +1,6 @@
-# comm4190_F25_Final_Project
+# Fashion.AI - Building your fashion outfits!
+*Emily, Eleni, and Nicholas*
+
 Our project idea is Fashion.AI, which is an LLM that helps you design outfits for events, shop within your budget, and plan your fashion schedule accordingly. Outfits can be gender-neutral and tailored to your body shape and style preference.
 
 # Table of Contents
