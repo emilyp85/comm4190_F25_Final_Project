@@ -3,6 +3,8 @@
 
 Our project idea is Fashion.AI, which is an LLM that helps you design outfits for events, shop within your budget, and plan your fashion schedule accordingly. Outfits can be gender-neutral and tailored to your body shape and style preference.
 
+![](Logo.jpg)
+
 # Table of Contents
 ## Milestone 1
 * [Nicholas's Idea Pitch](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/b6996d70c4e786ef0a2072c6af3d0ef424676442/nicholas_maharaj.ipynb)
