@@ -18,8 +18,8 @@ Our project idea is Fashion.AI, which is an LLM that helps you design outfits fo
 ## Milestone 3
 * [First Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/b6996d70c4e786ef0a2072c6af3d0ef424676442/first_scenario.ipynb)
 * [Second Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/b6996d70c4e786ef0a2072c6af3d0ef424676442/second_scenario.ipynb)
-* [Third Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/b6996d70c4e786ef0a2072c6af3d0ef424676442/Prompt_Defining_Scenario3.ipynb)
-* [Fourth Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/ede52581f80db7728c308bcdf873eccd7616a46a/Prompt_Defining_Scenario4.ipynb)
+* [Third Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/9313d01fe17b1c27ade6e9e31b7853d56a87bc1e/M%233_Scenarios/third_scenario.ipynb)
+* [Fourth Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/9313d01fe17b1c27ade6e9e31b7853d56a87bc1e/M%233_Scenarios/fourth_scenario.ipynb)
 * [Fifth Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/b6996d70c4e786ef0a2072c6af3d0ef424676442/Eleni_fifth_Scenario.ipynb)
 * [Sixth Case Scenario](https://github.com/emilyp85/comm4190_F25_Final_Project/blob/b6996d70c4e786ef0a2072c6af3d0ef424676442/Eleni_Sixth_Scenario.ipynb)
 
